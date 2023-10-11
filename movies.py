@@ -435,4 +435,17 @@ movie_db: List[Tuple[str, str, int, List[str]]] = [
             "spike lee",
         ],
     )
+    (
+        "Halloween",
+        "John Carpenter",
+        1978,
+        [
+            "jamie lee curtis",
+            "nancy kyes",
+            "donald pleasence",
+            "nick castle",
+            "tony moran",
+            "charles cyphers",
+        ],
+    )
 ]
